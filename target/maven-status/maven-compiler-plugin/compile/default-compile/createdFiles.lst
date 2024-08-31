@@ -1,0 +1,8 @@
+com/tsd/dist/registration/controller/DistributorModifyController.class
+com/tsd/dist/registration/repo/DistributorRepo.class
+com/tsd/dist/registration/controller/DistributorFetchController.class
+com/tsd/dist/registration/repo/AddressRepo.class
+com/tsd/dist/registration/DistmanagementApplication.class
+com/tsd/dist/registration/controller/DistributorDeleteController.class
+com/tsd/dist/registration/controller/DistributorCreationController.class
+com/tsd/dist/registration/service/DistributorService.class

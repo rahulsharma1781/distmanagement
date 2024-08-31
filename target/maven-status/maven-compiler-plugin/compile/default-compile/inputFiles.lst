@@ -1,0 +1,8 @@
+/Users/rahulsharma/Documents/TSD/distmanagement/src/main/java/com/tsd/dist/registration/DistmanagementApplication.java
+/Users/rahulsharma/Documents/TSD/distmanagement/src/main/java/com/tsd/dist/registration/controller/DistributorCreationController.java
+/Users/rahulsharma/Documents/TSD/distmanagement/src/main/java/com/tsd/dist/registration/controller/DistributorDeleteController.java
+/Users/rahulsharma/Documents/TSD/distmanagement/src/main/java/com/tsd/dist/registration/controller/DistributorFetchController.java
+/Users/rahulsharma/Documents/TSD/distmanagement/src/main/java/com/tsd/dist/registration/controller/DistributorModifyController.java
+/Users/rahulsharma/Documents/TSD/distmanagement/src/main/java/com/tsd/dist/registration/repo/AddressRepo.java
+/Users/rahulsharma/Documents/TSD/distmanagement/src/main/java/com/tsd/dist/registration/repo/DistributorRepo.java
+/Users/rahulsharma/Documents/TSD/distmanagement/src/main/java/com/tsd/dist/registration/service/DistributorService.java
